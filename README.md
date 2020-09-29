@@ -9,7 +9,7 @@ shift - for Ceasar cypher
   
 example:
 ```bash
-python manage.py downloadpage https://www.youtube.com/watch?v=RqymMQUxdpo&ab_channel=Wudoe --shift 5
+python manage.py downloadpage https://en.wikipedia.org/wiki/Kitten --shift 5
 ```
 
 
