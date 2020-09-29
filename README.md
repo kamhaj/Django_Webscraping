@@ -1,7 +1,7 @@
 # Django_Webscraping
 > Django custom admin methods
 
-# Quick start - use commands in CMD/Terminal, where manage.py file is
+## Quick start - use commands in CMD/Terminal, where manage.py file is
 
 ## 1 - downloadpage function - downloads text from html body based on url provided, encrypts it and saves it in DB
 > usage >python manage.py downloadpage <url> --shift <shift>
